@@ -7,7 +7,7 @@ Ao ler e praticar o capítulo 6 do livro do Semmy, tive alguns problemas com o m
 
 No site npmjs.com você pode encontrar a documentação e exemplo do uso do módulo [twit] (https://www.npmjs.com/package/twit).
 
-Assim como os demais módulos do nodeJS precisa ser instalado:
+Assim, como os demais módulos do nodeJS, precisa ser instalado:
 
 ' npm install twit '
 
